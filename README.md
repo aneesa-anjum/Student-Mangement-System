@@ -1,0 +1,3 @@
+# Student-Mangement-System
+I developed a comprehensive Student Management System using HTML, CSS, and PHP, providing a centralized platform for educational institutions to efficiently manage student data, academic records, and administrative tasks. The web-based application enables user-friendly student registration, attendance tracking, grade management, course scheduling, and fee management, streamlining operations and enhancing student experiences. 
+By harnessing the power of HTML, CSS, and PHP, I created a robust and scalable solution that simplifies administrative tasks, improves data accuracy, and supports student success
